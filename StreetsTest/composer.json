@@ -1,0 +1,15 @@
+{
+    "name": "rachel.dodson/streets-test",
+    "description": "Tech Test",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^10.2"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "RachelDodson\\StreetsTest\\": "src/"
+        }
+    }
+}
